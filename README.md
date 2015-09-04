@@ -1,26 +1,29 @@
-# University Registrar with MySQL
+# _University Registrar_
 
-##### App for a university registrar to keep track of students and courses. (8/25/15)
+##### _A PHP program using SQL databases, 8-25-15_
 
-#### Logan Wu & Jose Torres
+#### By _**Dillon Lloyd Lee & Chris Lytsell**_
 
 ## Description
 
-This application allows a university registrar to keep track of students by enrollment dates and courses taken.
+_A University Registrar program that does various things._
 
 ## Setup
-* Clone the project using the link provided on Github.
-* Run composer install in Terminal from the project root folder.
-* Start the PHP server from Terminal in the /web folder.
-* Open a web browser and navigate to ```localhost:8000```.
+
+* _Initialize databases via mysql._
+* _Clone directory from "https://github.com/ludichrislyts/University_Registrar.git"_
+* _run "composer install" into the terminal from the main folder directory._
+* _run "php -S localhost:8000" from the web folder._
+* _That's it!  Run this program from the root web page and follow onscreen directions._
 
 ## Technologies Used
 
-PHP, PHPUnit, Silex, Twig, and MySQL
+_Made using SQL, PHP, HTML, Silex, Composer, Twig; tests conducted with PHPUnit._
 
 ### Legal
 
-Copyright (c) 2015 Logan Wu & Jose Torres
+
+Copyright (c) 2015 **_Dillon Lloyd Lee & Chris Lytsell_**
 
 This software is licensed under the MIT license.
 
